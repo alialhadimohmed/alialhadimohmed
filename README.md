@@ -7,10 +7,20 @@
   </a>
 
   <p align="center">
-    <a href="https://play.google.com/store/apps/dev?id=7108375268184685594" target="_blank">
-      <img src="https://img.shields.io/badge/Google%20Play-Published%20Developer-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Developer" />
+    <a href="https://www.linkedin.com/in/ali-alhadi-mohammed" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    &nbsp;
+    <a href="https://play.google.com/store/apps/dev?id=7108375268184685594" target="_blank">
+      <img src="https://img.shields.io/badge/Google%20Play-Developer-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Developer" />
+    </a>
+    &nbsp;
+    <a href="https://x.com/_ALI_ALHADI_" target="_blank">
+      <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    </a>
+    &nbsp;
     <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-22c55e?style=for-the-badge&logo=github" alt="Available for hire" />
+    &nbsp;
     <img src="https://komarev.com/ghpvc/?username=alialhadimohmed&color=f59e0b&style=for-the-badge&label=VIEWS" alt="Profile Views" />
   </p>
 
@@ -28,7 +38,7 @@
 ### 👨‍💻 About Me
 
 Founder & Lead Mobile Engineer at **[Yoota Studio](https://www.yootastudio.com)** with 5+ commercial applications live on the **Google Play Store**. 
-Specialized in **Native Android (Kotlin & Jetpack Compose)**, modern reactive architectures, and **Cross-Platform (Flutter)** development.
+Specialized in **Native Android (Kotlin & Jetpack Compose)**, modern reactive architectures, and **Cross-Platform (Flutter)** development. Open to remote, on-site, and high-impact engineering opportunities worldwide.
 
 - 📱 **Engineering Mastery:** Native Android with Jetpack Compose & Modern Android Architecture (Clean Architecture / MVI / UDF).
 - 🎥 **Media & Video Streaming Expert:** Deep engineering of ExoPlayer, Media3, YouTube Embedded APIs, custom video cache management, and zero-jank vertical swipe physics.
@@ -205,6 +215,10 @@ Specialized in **Native Android (Kotlin & Jetpack Compose)**, modern reactive ar
 <div align="center">
   <h3>📫 Let's Connect & Build Together</h3>
   <p>
+    <a href="https://www.linkedin.com/in/ali-alhadi-mohammed" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Ali%20Alhadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
     <a href="https://play.google.com/store/apps/dev?id=7108375268184685594" target="_blank">
       <img src="https://img.shields.io/badge/Google%20Play-Yoota%20Studio-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
     </a>
@@ -213,12 +227,20 @@ Specialized in **Native Android (Kotlin & Jetpack Compose)**, modern reactive ar
       <img src="https://img.shields.io/badge/Website-yootastudio.com-6366F1?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
     </a>
     &nbsp;
-    <a href="mailto:yootastudio@gmail.com">
-      <img src="https://img.shields.io/badge/Email-yootastudio@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:Alialhadimohmed@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Alialhadimohmed@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
-    <a href="https://github.com/alialhadimohmed">
-      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <a href="https://x.com/_ALI_ALHADI_" target="_blank">
+      <img src="https://img.shields.io/badge/X%20(Twitter)-@_ALI_ALHADI_-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    </a>
+    &nbsp;
+    <a href="https://t.me/YootaStudio" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-@YootaStudio-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    &nbsp;
+    <a href="https://youtube.com/@yootastudio" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-@yootastudio-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
     </a>
   </p>
   <p><i>"Crafting high-performance mobile experiences with pixel-perfection and zero dropped frames."</i></p>
