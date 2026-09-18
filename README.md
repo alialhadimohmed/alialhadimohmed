@@ -49,101 +49,79 @@ Specialized in **Native Android (Kotlin & Jetpack Compose)**, modern reactive ar
 
 ### 🚀 Production Apps Live on Google Play Store
 
-<table align="center" width="100%">
-  <!-- ROW 1: Yoota Player & Yoota X -->
+<table width="100%">
+  <!-- App 1: Yoota Player -->
   <tr>
-    <td width="50%" valign="top">
-      <table width="100%">
-        <tr>
-          <td width="75px" align="center">
-            <img src="https://play-lh.googleusercontent.com/lJM0CiAz_dyptAOgf1rejubJDjHWwneHbOQ_Af9T7AA1c-HYFJ9ThfobjZGvVYpLPnnkV4aGyH7DzBhr7RdZ8A=s80" width="70px" style="border-radius: 14px;" />
-          </td>
-          <td>
-            <b>1. Yoota Player (مشغل يوتا)</b><br/>
-            <i>Distraction-free personal media hub giving users complete control over what and how they watch with gesture navigation.</i><br/>
-            <code>Flutter</code> <code>Native Android</code> <code>Media3</code> <code>Gestures</code><br/>
-            <a href="https://play.google.com/store/apps/details?id=com.yoota.video" target="_blank">
-              <img src="https://img.shields.io/badge/Google%20Play-View%20App-34A853?style=flat-square&logo=google-play&logoColor=white" />
-            </a>
-          </td>
-        </tr>
-      </table>
+    <td width="75px" align="center" valign="middle">
+      <img src="https://play-lh.googleusercontent.com/lJM0CiAz_dyptAOgf1rejubJDjHWwneHbOQ_Af9T7AA1c-HYFJ9ThfobjZGvVYpLPnnkV4aGyH7DzBhr7RdZ8A=s80" width="68px" style="border-radius: 14px;" alt="Yoota Player" />
     </td>
-    <td width="50%" valign="top">
-      <table width="100%">
-        <tr>
-          <td width="75px" align="center">
-            <img src="https://play-lh.googleusercontent.com/IlzHd_shrRdRhD25SsJpBXboqzm_lrEfaqyqk1UdrWbI_Cmwrj1bUDWmaTHywNHmyxdXXp6z4sh-PneOz5fET-8=s80" width="70px" style="border-radius: 14px;" />
-          </td>
-          <td>
-            <b>2. Yoota X (منصة يوتا إكس)</b><br/>
-            <i>Next-generation creator social platform for short-form videos, audio whispers, and secure private messaging.</i><br/>
-            <code>Jetpack Compose</code> <code>Firebase</code> <code>Supabase</code> <code>Multi-Module</code><br/>
-            <a href="https://play.google.com/store/apps/details?id=com.yoota.x" target="_blank">
-              <img src="https://img.shields.io/badge/Google%20Play-View%20App-34A853?style=flat-square&logo=google-play&logoColor=white" />
-            </a>
-          </td>
-        </tr>
-      </table>
+    <td valign="middle">
+      <b>1. Yoota Player (مشغل يوتا)</b><br/>
+      <i>Distraction-free personal media hub giving users complete control over what and how they watch with gesture navigation.</i><br/>
+      <code>Flutter</code> <code>Native Android</code> <code>Media3</code> <code>Gestures</code><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.yoota.video" target="_blank">
+        <img src="https://img.shields.io/badge/Google%20Play-View%20App-34A853?style=flat-square&logo=google-play&logoColor=white" alt="View on Google Play" />
+      </a>
     </td>
   </tr>
 
-  <!-- ROW 2: Golden Media Player & Messages from Quran -->
+  <!-- App 2: Yoota X -->
   <tr>
-    <td width="50%" valign="top">
-      <table width="100%">
-        <tr>
-          <td width="75px" align="center">
-            <img src="https://play-lh.googleusercontent.com/NfKhExggWyUZvFz1BOUwDf-mJ-y1O00Q_FK5KsONyUDy1hxV0_PUvWP4tYhn6r9zeTaKPyr9sGzCMDdKF7v_kg=s80" width="70px" style="border-radius: 14px;" />
-          </td>
-          <td>
-            <b>3. Golden Media Player (المشغل الذهبي)</b><br/>
-            <i>High-performance video & audio player with smooth swipe controls, background audio playback, and format conversion.</i><br/>
-            <code>Kotlin</code> <code>Jetpack Compose</code> <code>Media3/ExoPlayer</code><br/>
-            <a href="https://play.google.com/store/apps/details?id=com.goldenmediaplayer.app" target="_blank">
-              <img src="https://img.shields.io/badge/Google%20Play-View%20App-34A853?style=flat-square&logo=google-play&logoColor=white" />
-            </a>
-          </td>
-        </tr>
-      </table>
+    <td width="75px" align="center" valign="middle">
+      <img src="https://play-lh.googleusercontent.com/IlzHd_shrRdRhD25SsJpBXboqzm_lrEfaqyqk1UdrWbI_Cmwrj1bUDWmaTHywNHmyxdXXp6z4sh-PneOz5fET-8=s80" width="68px" style="border-radius: 14px;" alt="Yoota X" />
     </td>
-    <td width="50%" valign="top">
-      <table width="100%">
-        <tr>
-          <td width="75px" align="center">
-            <img src="https://play-lh.googleusercontent.com/t5YRnF2QO7WHeI7eiko0H3OhO1xYdtWQGeW17M5YJzsjW2TR49_aXKaC9tAQ5xGE-8FZW8KGtT0RXGBlnqLhEMo=s80" width="70px" style="border-radius: 14px;" />
-          </td>
-          <td>
-            <b>4. رسائل من القرآن (Messages from Quran)</b><br/>
-            <i>Daily Quranic messages, clean Mushaf reader, audio recitations, and intelligent spiritual reminders.</i><br/>
-            <code>Kotlin</code> <code>Jetpack Compose</code> <code>Room DB</code> <code>Offline-First</code><br/>
-            <a href="https://play.google.com/store/apps/details?id=com.rasail.alquran" target="_blank">
-              <img src="https://img.shields.io/badge/Google%20Play-View%20App-34A853?style=flat-square&logo=google-play&logoColor=white" />
-            </a>
-          </td>
-        </tr>
-      </table>
+    <td valign="middle">
+      <b>2. Yoota X (منصة يوتا إكس)</b><br/>
+      <i>Next-generation creator social platform for short-form videos, audio whispers, and secure private messaging.</i><br/>
+      <code>Jetpack Compose</code> <code>Firebase</code> <code>Supabase</code> <code>Multi-Module</code><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.yoota.x" target="_blank">
+        <img src="https://img.shields.io/badge/Google%20Play-View%20App-34A853?style=flat-square&logo=google-play&logoColor=white" alt="View on Google Play" />
+      </a>
     </td>
   </tr>
 
-  <!-- ROW 3: Success Companion -->
+  <!-- App 3: Golden Media Player -->
   <tr>
-    <td colspan="2" valign="top">
-      <table width="100%">
-        <tr>
-          <td width="75px" align="center">
-            <img src="https://play-lh.googleusercontent.com/N_cIPt2mu7NIVVyLYL4oDuzqxnHE_jx89FeKdlZHvdK8-TKVlu_dFG7EDLxv2IROiUC_KB0SkPqRAlzuxLELLA=s80" width="70px" style="border-radius: 14px;" />
-          </td>
-          <td>
-            <b>5. رفيق النجاح (Success Companion - Yoota Notes)</b><br/>
-            <i>Smart companion for organizing daily notes, strategic plans, creative ideas, and task execution.</i><br/>
-            <code>Kotlin</code> <code>Jetpack Compose</code> <code>Clean Architecture</code><br/>
-            <a href="https://play.google.com/store/apps/details?id=com.yoota.notes" target="_blank">
-              <img src="https://img.shields.io/badge/Google%20Play-View%20App-34A853?style=flat-square&logo=google-play&logoColor=white" />
-            </a>
-          </td>
-        </tr>
-      </table>
+    <td width="75px" align="center" valign="middle">
+      <img src="https://play-lh.googleusercontent.com/NfKhExggWyUZvFz1BOUwDf-mJ-y1O00Q_FK5KsONyUDy1hxV0_PUvWP4tYhn6r9zeTaKPyr9sGzCMDdKF7v_kg=s80" width="68px" style="border-radius: 14px;" alt="Golden Media Player" />
+    </td>
+    <td valign="middle">
+      <b>3. Golden Media Player (المشغل الذهبي)</b><br/>
+      <i>High-performance video & audio player with smooth swipe controls, background audio playback, and format conversion.</i><br/>
+      <code>Kotlin</code> <code>Jetpack Compose</code> <code>Media3/ExoPlayer</code><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.goldenmediaplayer.app" target="_blank">
+        <img src="https://img.shields.io/badge/Google%20Play-View%20App-34A853?style=flat-square&logo=google-play&logoColor=white" alt="View on Google Play" />
+      </a>
+    </td>
+  </tr>
+
+  <!-- App 4: Messages from Quran -->
+  <tr>
+    <td width="75px" align="center" valign="middle">
+      <img src="https://play-lh.googleusercontent.com/t5YRnF2QO7WHeI7eiko0H3OhO1xYdtWQGeW17M5YJzsjW2TR49_aXKaC9tAQ5xGE-8FZW8KGtT0RXGBlnqLhEMo=s80" width="68px" style="border-radius: 14px;" alt="Messages from Quran" />
+    </td>
+    <td valign="middle">
+      <b>4. رسائل من القرآن (Messages from Quran)</b><br/>
+      <i>Daily Quranic messages, clean Mushaf reader, audio recitations, and intelligent spiritual reminders.</i><br/>
+      <code>Kotlin</code> <code>Jetpack Compose</code> <code>Room DB</code> <code>Offline-First</code><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.rasail.alquran" target="_blank">
+        <img src="https://img.shields.io/badge/Google%20Play-View%20App-34A853?style=flat-square&logo=google-play&logoColor=white" alt="View on Google Play" />
+      </a>
+    </td>
+  </tr>
+
+  <!-- App 5: Success Companion -->
+  <tr>
+    <td width="75px" align="center" valign="middle">
+      <img src="https://play-lh.googleusercontent.com/N_cIPt2mu7NIVVyLYL4oDuzqxnHE_jx89FeKdlZHvdK8-TKVlu_dFG7EDLxv2IROiUC_KB0SkPqRAlzuxLELLA=s80" width="68px" style="border-radius: 14px;" alt="Success Companion" />
+    </td>
+    <td valign="middle">
+      <b>5. رفيق النجاح (Success Companion - Yoota Notes)</b><br/>
+      <i>Smart companion for organizing daily notes, strategic plans, creative ideas, and task execution.</i><br/>
+      <code>Kotlin</code> <code>Jetpack Compose</code> <code>Clean Architecture</code><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.yoota.notes" target="_blank">
+        <img src="https://img.shields.io/badge/Google%20Play-View%20App-34A853?style=flat-square&logo=google-play&logoColor=white" alt="View on Google Play" />
+      </a>
     </td>
   </tr>
 </table>
@@ -202,12 +180,15 @@ Specialized in **Native Android (Kotlin & Jetpack Compose)**, modern reactive ar
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alialhadimohmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialhadimohmed&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Top Languages" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alialhadimohmed&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=alialhadimohmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialhadimohmed&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alialhadimohmed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </p>
 </div>
 
 ---
