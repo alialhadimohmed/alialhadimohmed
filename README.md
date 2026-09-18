@@ -3,13 +3,22 @@
   <h1>Hi there, I'm Ali Alhadi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px" alt="wave"></h1>
 
   <a href="https://github.com/alialhadimohmed">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=F59E0B&center=true&vCenter=true&multiline=false&width=650&height=48&lines=Native+Android+Engineer+%26+Jetpack+Compose;High-Performance+Video+%26+Media3+Architect;Flutter+%26+Modern+Cross-Platform+Mobile;Clean+Architecture+%7C+MVI+%7C+Reactive+Flows" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=F59E0B&center=true&vCenter=true&multiline=false&width=650&height=48&lines=Founder+%26+Lead+Engineer+@+Yoota+Studio;Native+Android+Engineer+%26+Jetpack+Compose;High-Performance+Video+%26+Media3+Architect;Production-Proven+Google+Play+Developer" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=alialhadimohmed&color=f59e0b&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-22c55e?style=flat-square&logo=github" alt="Available for hire" />
-    <img src="https://img.shields.io/badge/Location-Remote%20%2F%20Worldwide-3b82f6?style=flat-square&logo=google-maps" alt="Worldwide" />
+    <a href="https://play.google.com/store/apps/dev?id=7108375268184685594" target="_blank">
+      <img src="https://img.shields.io/badge/Google%20Play-Published%20Developer-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Developer" />
+    </a>
+    <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-22c55e?style=for-the-badge&logo=github" alt="Available for hire" />
+    <img src="https://komarev.com/ghpvc/?username=alialhadimohmed&color=f59e0b&style=for-the-badge&label=VIEWS" alt="Profile Views" />
+  </p>
+
+  <!-- GitHub Profile Trophies -->
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=alialhadimohmed&theme=onedark&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+    </a>
   </p>
 
 </div>
@@ -18,12 +27,117 @@
 
 ### 👨‍💻 About Me
 
-Passionate **Mobile Application Engineer** with deep expertise in **Native Android (Kotlin & Jetpack Compose)** and **Cross-Platform (Flutter)** development. Specialized in building fluid, 60/120 FPS video experiences, complex gesture interactions, and robust offline-first software architectures.
+Founder & Lead Mobile Engineer at **[Yoota Studio](https://www.yootastudio.com)** with 5+ commercial applications live on the **Google Play Store**. 
+Specialized in **Native Android (Kotlin & Jetpack Compose)**, modern reactive architectures, and **Cross-Platform (Flutter)** development.
 
-- 📱 **Primary Focus:** Native Android with Jetpack Compose & Modern Android Architecture (MVI / MVVM / UDF).
-- 🎥 **Media & Video Streaming:** Deep engineering of ExoPlayer, Media3, YouTube Embedded APIs, custom video cache management, and zero-jank vertical feed transitions.
-- ⚡ **Performance Obsessed:** Frame budgeting, Compose recomposition optimization, memory leak prevention, and ultra-smooth swiping physics.
-- 🏗️ **Architectural Rigor:** Multi-module Gradle setups, Clean Architecture, Room Database, Kotlin Coroutines, and StateFlow pipelines.
+- 📱 **Engineering Mastery:** Native Android with Jetpack Compose & Modern Android Architecture (Clean Architecture / MVI / UDF).
+- 🎥 **Media & Video Streaming Expert:** Deep engineering of ExoPlayer, Media3, YouTube Embedded APIs, custom video cache management, and zero-jank vertical swipe physics.
+- ⚡ **Performance Obsessed:** Frame budgeting (60/120 FPS), Compose recomposition minimization, memory leak prevention, and instant startup times.
+- 🗄️ **Offline-First Resilience:** Local-first architecture using Room DB, encrypted preferences, and seamless cloud syncing.
+
+---
+
+### 🚀 Production Apps Live on Google Play Store
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <table width="100%">
+        <tr>
+          <td width="75px" align="center">
+            <img src="https://play-lh.googleusercontent.com/NfKhExggWyUZvFz1BOUwDf-mJ-y1O00Q_FK5KsONyUDy1hxV0_PUvWP4tYhn6r9zeTaKPyr9sGzCMDdKF7v_kg=s80" width="70px" style="border-radius: 14px;" />
+          </td>
+          <td>
+            <b>Golden Media Player (المشغل الذهبي)</b><br/>
+            <i>High-performance video & audio player with swipe controls, background audio playback, and format conversion.</i><br/>
+            <code>Kotlin</code> <code>Jetpack Compose</code> <code>Media3/ExoPlayer</code><br/>
+            <a href="https://play.google.com/store/apps/details?id=com.goldenmediaplayer.app" target="_blank">
+              <img src="https://img.shields.io/badge/Google%20Play-View%20App-34A853?style=flat-square&logo=google-play&logoColor=white" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <table width="100%">
+        <tr>
+          <td width="75px" align="center">
+            <img src="https://play-lh.googleusercontent.com/t5YRnF2QO7WHeI7eiko0H3OhO1xYdtWQGeW17M5YJzsjW2TR49_aXKaC9tAQ5xGE-8FZW8KGtT0RXGBlnqLhEMo=s80" width="70px" style="border-radius: 14px;" />
+          </td>
+          <td>
+            <b>رسائل من القرآن (Messages from Quran)</b><br/>
+            <i>Daily Quranic messages, clean Mushaf reader, audio recitations, and intelligent spiritual reminders.</i><br/>
+            <code>Kotlin</code> <code>Jetpack Compose</code> <code>Room DB</code> <code>Offline-First</code><br/>
+            <a href="https://play.google.com/store/apps/details?id=com.rasail.alquran" target="_blank">
+              <img src="https://img.shields.io/badge/Google%20Play-View%20App-34A853?style=flat-square&logo=google-play&logoColor=white" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <table width="100%">
+        <tr>
+          <td width="75px" align="center">
+            <img src="https://play-lh.googleusercontent.com/N_cIPt2mu7NIVVyLYL4oDuzqxnHE_jx89FeKdlZHvdK8-TKVlu_dFG7EDLxv2IROiUC_KB0SkPqRAlzuxLELLA=s80" width="70px" style="border-radius: 14px;" />
+          </td>
+          <td>
+            <b>رفيق النجاح (Success Companion)</b><br/>
+            <i>Smart companion for organizing daily notes, strategic plans, creative ideas, and task execution.</i><br/>
+            <code>Kotlin</code> <code>Jetpack Compose</code> <code>Clean Architecture</code><br/>
+            <a href="https://play.google.com/store/apps/details?id=com.yoota.notes" target="_blank">
+              <img src="https://img.shields.io/badge/Google%20Play-View%20App-34A853?style=flat-square&logo=google-play&logoColor=white" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <table width="100%">
+        <tr>
+          <td width="75px" align="center">
+            <img src="https://play-lh.googleusercontent.com/lJM0CiAz_dyptAOgf1rejubJDjHWwneHbOQ_Af9T7AA1c-HYFJ9ThfobjZGvVYpLPnnkV4aGyH7DzBhr7RdZ8A=s80" width="70px" style="border-radius: 14px;" />
+          </td>
+          <td>
+            <b>Yoota Player: Personal Media</b><br/>
+            <i>Distraction-free personal media hub giving users complete control over what and how they watch.</i><br/>
+            <code>Flutter</code> <code>Native Android</code> <code>Media3</code> <code>Gestures</code><br/>
+            <a href="https://play.google.com/store/apps/details?id=com.yoota.video" target="_blank">
+              <img src="https://img.shields.io/badge/Google%20Play-View%20App-34A853?style=flat-square&logo=google-play&logoColor=white" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <table width="100%">
+        <tr>
+          <td width="75px" align="center">
+            <img src="https://play-lh.googleusercontent.com/IlzHd_shrRdRhD25SsJpBXboqzm_lrEfaqyqk1UdrWbI_Cmwrj1bUDWmaTHywNHmyxdXXp6z4sh-PneOz5fET-8=s80" width="70px" style="border-radius: 14px;" />
+          </td>
+          <td>
+            <b>Yoota X (منصة يوتا إكس)</b><br/>
+            <i>Next-generation creator platform for short-form videos, audio whispers, and secure private messaging.</i><br/>
+            <code>Jetpack Compose</code> <code>Firebase</code> <code>Supabase</code> <code>Multi-Module</code><br/>
+            <a href="https://play.google.com/store/apps/details?id=com.yoota.x" target="_blank">
+              <img src="https://img.shields.io/badge/Google%20Play-View%20App-34A853?style=flat-square&logo=google-play&logoColor=white" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/dev?id=7108375268184685594" target="_blank">
+    <img src="https://img.shields.io/badge/Explore%20All%20Apps%20on%20Google%20Play-Yoota%20Studio-0A85EA?style=for-the-badge&logo=google-play&logoColor=white" alt="Yoota Studio Google Play" />
+  </a>
+</p>
 
 ---
 
@@ -83,19 +197,23 @@ Passionate **Mobile Application Engineer** with deep expertise in **Native Andro
 
 ---
 
-### 🏆 Engineering Highlights
-
-- ⚡ **Zero-Jank Swipe Feeds:** Designed complex custom gesture-driven vertical video pagers with seamless lifecycle transitions and decoupled WebView/Surface rendering.
-- 🗄️ **Offline-First Resilience:** Engineered robust local caching layers using Room and custom disk caches to ensure instant playback without network delays.
-- 🛡️ **Clean Architecture & Scalability:** Strict separation of concerns (Core, Domain, Data, Features) ensuring predictable state machines and testable codebases.
-
----
-
 <div align="center">
   <h3>📫 Let's Connect & Build Together</h3>
   <p>
+    <a href="https://play.google.com/store/apps/dev?id=7108375268184685594" target="_blank">
+      <img src="https://img.shields.io/badge/Google%20Play-Yoota%20Studio-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
+    </a>
+    &nbsp;
+    <a href="https://www.yootastudio.com" target="_blank">
+      <img src="https://img.shields.io/badge/Website-yootastudio.com-6366F1?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
+    </a>
+    &nbsp;
+    <a href="mailto:yootastudio@gmail.com">
+      <img src="https://img.shields.io/badge/Email-yootastudio@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;
     <a href="https://github.com/alialhadimohmed">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
   <p><i>"Crafting high-performance mobile experiences with pixel-perfection and zero dropped frames."</i></p>
